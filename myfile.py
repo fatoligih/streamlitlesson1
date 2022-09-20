@@ -15,3 +15,4 @@ agree5 = st.checkbox('Hà')
 agree6 = st.checkbox('Linh')
 
 st.title("Gièo cầu lông")
+st.balloons()
