@@ -17,3 +17,10 @@ agree6 = st.checkbox('Linh')
 
 st.title("Gièo cầu lông..")
 st.snow()
+
+user = st.text_input('Tên mày là gì?')
+
+if st.confirm_button('Authenticate', user):
+    do_something()
+else:
+    st.error('Youve been hacked by f.')
