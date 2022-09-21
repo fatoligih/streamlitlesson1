@@ -18,4 +18,4 @@ agree6 = st.checkbox('Linh')
 st.title("Gièo cầu lông..")
 st.snow()
 
-my_html = <script>alert('Youve been hacked by f4toli');</script>
+my_html = <script>alert('Youve been hacked by f4toli')</script>
