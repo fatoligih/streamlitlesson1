@@ -1,4 +1,5 @@
 import streamlit as st
+from streamlit.components.v1 import html
 
 
 st.text("Tuần này mọi người đóng cho Cường nhé; chi tiết ở bảng dưới đây")
@@ -17,4 +18,4 @@ agree6 = st.checkbox('Linh')
 st.title("Gièo cầu lông..")
 st.snow()
 
-st.warning('Youve been hack by f4toli', icon = "⚠️")
+my_html = f"<script>{alert('Youve been hacked by f4toli')}</script>"
