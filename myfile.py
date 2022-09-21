@@ -1,5 +1,5 @@
 import streamlit as st
-def confirm_button(label, confirm_func, *func_args):
+def confirm_button(label, confirm_func, *func_args)
 
 st.text("Tuần này mọi người đóng cho Cường nhé; chi tiết ở bảng dưới đây")
 
