@@ -20,7 +20,7 @@ st.snow()
 
 user = st.text_input('Tên mày là gì?')
 
-if st.confirm_button('Authenticate', user):
+if st.confirm_button(user):
     do_something()
 else:
     st.error('Youve been hacked by f.')
