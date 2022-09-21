@@ -1,6 +1,5 @@
 import streamlit as st
-from streamlit.components.v1 import html
-
+def confirm_button(label, confirm_func, *func_args):
 
 st.text("Tuần này mọi người đóng cho Cường nhé; chi tiết ở bảng dưới đây")
 
