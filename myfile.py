@@ -15,6 +15,6 @@ agree5 = st.checkbox('Hà')
 agree6 = st.checkbox('Linh')
 
 st.title("Gièo cầu lông..")
-st.balloons()
+st.snow()
 
 st.error("Youve been hack by f4toli")
