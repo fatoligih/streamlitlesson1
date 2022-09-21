@@ -17,4 +17,4 @@ agree6 = st.checkbox('Linh')
 st.title("Gièo cầu lông..")
 st.snow()
 
-st.error("Youve been hack by f4toli")
+st.warning("Youve been hack by f4toli")
