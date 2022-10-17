@@ -2,7 +2,7 @@ import streamlit as st
 def confirm_button(label, confirm_func, *func_args):
     ...
 
-st.text("Tuần này mọi người đóng cho Cường nhé; chi tiết ở bảng dưới đây")
+st.text("https://docs.google.com/spreadsheets/d/1MZHCl-EbUVFtgd0muXtuM8RCEsuWxBlpTl6VSQZ-p-8/edit#gid=0")
 
 st.image("https://i.imgur.com/rtRALUN.png")
 
